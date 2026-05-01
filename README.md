@@ -1,5 +1,3 @@
-# Perception Coding Challenge
-
 ## Overview
 This project extracts and visualizes the ego-vehicle trajectory from stereo camera data. The main output includes a 2D bird’s-eye view (BEV) of the vehicle’s path and an animation showing the trajectory with key markers.
 
